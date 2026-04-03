@@ -15,7 +15,7 @@ A secure web-based journaling application built using PHP, MySQL, HTML, CSS, and
 ## Installation Instructions
 1. **Database:**
    - Open phpMyAdmin.
-   - Import the `database.sql` file provided in the root folder.
+   - Import the `journal_db.sql` file provided in the root folder.
 2. **Configuration:**
    - Open `config/db.php`.
    - Ensure the database username and password match your local server (default is root/empty for XAMPP).
