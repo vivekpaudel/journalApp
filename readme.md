@@ -1,4 +1,4 @@
-# 📘 My Journal Application
+# 📘 Journal Application College Project
 
 A secure web-based journaling application built using PHP, MySQL, HTML, CSS, and JavaScript.
 
